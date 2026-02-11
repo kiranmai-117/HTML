@@ -1,0 +1,44 @@
+.page {
+  margin: 100px;
+}
+
+.page-color {
+  background-color: rgb(251, 251, 251);
+  padding: 2em;
+}
+
+.heading {
+  font-size: 35px;
+}
+
+.heading2 {
+  font-size: 25px;
+}
+
+.heading3 {
+  font-family: sans-serif;
+  color: #333;
+}
+
+.para {
+  line-height: 1.4em;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #555;
+}
+
+.light-border {
+  border-bottom: 1px solid #777;
+  padding-bottom: 2em;
+}
+
+.dark-border {
+  border-bottom: 2px solid #111;
+  padding-bottom: 2em;
+}
+
+.box {
+  margin: 50px 0px;
+  border: 1px solid #888;
+  padding: 1em;
+}
