@@ -1,0 +1,16 @@
+* {
+  line-height: 1em;
+  margin: 0px;
+  font-family: system-ui;
+}
+
+.para{
+  border: 1px solid black;
+  padding: 1em;
+  margin: 5px;
+}
+
+#div{
+  border: 2px solid black;
+  margin: 5px;
+}
